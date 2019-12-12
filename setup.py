@@ -5,7 +5,7 @@ setup(
     version='0.1.2',
     packages=['char_rbm'],
     url='https://github.com/OpenJarbas/simple_char_rbm',
-    license='MIT',
+    license='apache2.0',
     install_requires=["scikit-learn", "colorama"],
     author='jarbasai',
     author_email='jarbasai@mailfence.com',

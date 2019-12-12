@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Transfered ownership to [OpenJarbas]()
+- Transfered ownership to [OpenJarbas](https://github.com/OpenJarbas)
 - Made a changelog
 
 ## [0.1.0]
