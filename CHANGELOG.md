@@ -23,4 +23,4 @@ initial release
 - wrapper around [colinmorris/char-rbm](https://github.com/colinmorris/char-rbm)
 
 [unreleased]: https://github.com/OpenJarbas/simple_char_rbm/tree/dev
-[0.1.2]: https://github.com/OpenJarbas/simple_char_rbm/tree/0.3
+[0.1.2]: https://github.com/OpenJarbas/simple_char_rbm/tree/0.1.2
